@@ -83,11 +83,14 @@ API Docs: http://localhost:8000/docs
 Environment Variables
 
 # Backend
-GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here 
+
 GEMINI_MODEL=gemini-1.5-flash
+
 VITE_API_BASE=http://localhost:8000
 
+---
 # Frontend
 VITE_API_BASE=http://localhost:8000
 
-## 🏗️ System Architecture
+
