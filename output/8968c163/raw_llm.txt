@@ -1,0 +1,72 @@
+```json
+{
+  "tagline": "KIROS: Your Gateway to Profitable Sustainability and Real-World Impact.",
+  "elevator_pitch": "KIROS is a dual-layer platform empowering individuals and businesses to micro-invest in clean energy projects, earn verified carbon credits, and transparently track their environmental impact, making sustainability accessible and profitable for everyone.",
+  "executive_summary": "KIROS is poised to revolutionize the carbon management and renewable energy investment landscape with its innovative dual-layer platform. By merging clean energy generation and carbon credit trading with accessible micro-investment opportunities, KIROS addresses the critical need for transparent, verifiable, and profitable participation in the fight against climate change. Leveraging smart technology and AI analytics, the platform enables users to fund green projects, acquire verified carbon credits, and monitor their environmental contributions in real-time. KIROS aims to democratize sustainable investing, fostering a global community committed to a greener future while generating tangible financial and ecological returns.",
+  "slides": [
+    {
+      "title": "KIROS: Revolutionizing Sustainable Investment",
+      "bullets": [
+        "Empowering a Greener Future Through Accessible Investment",
+        "Merging Clean Energy, Carbon Credits, and Micro-Investment"
+      ],
+      "speaker_notes": "Good morning, everyone. We're here today to talk about a groundbreaking solution to one of humanity's greatest challenges: climate change. Introducing KIROS – your pathway to a sustainable and profitable future."
+    ,
+    {
+      "title": "The Climate Crisis & Investment Gap",
+      "bullets": [
+        "Urgent need for climate action and green infrastructure funding.",
+        "Traditional green investments are often inaccessible to individuals.",
+        "Carbon credit markets lack transparency and trust for everyday users.",
+        "Difficulty for businesses and individuals to track real environmental impact."
+      ],
+      "speaker_notes": "The climate crisis demands immediate and scalable solutions. Yet, the average person or small business finds it incredibly difficult to participate meaningfully in green investments or navigate the complex world of carbon credits. There's a significant gap between intent and action, driven by lack of access, transparency, and verifiable impact."
+    },
+    {
+      "title": "Introducing KIROS: Dual-Layer Sustainable Impact",
+      "bullets": [
+        "Layer 1: Clean Energy Micro-Investment: Fund vetted renewable energy projects globally.",
+        "Layer 2: Verified Carbon Credit Trading: Buy, sell, and retire high-quality, verified carbon credits.",
+        "Seamless integration for maximum impact and profitability."
+      ],
+      "speaker_notes": "KIROS bridges this gap with a unique dual-layer platform. We offer a simple way for anyone to micro-invest in tangible clean energy projects, from solar farms to wind turbines. Simultaneously, we provide a transparent marketplace for verified carbon credits, ensuring every credit represents real emissions reduction. These two layers work in synergy, amplifying both financial returns and environmental impact."
+    },
+    {
+      "title": "How KIROS Works: Empowering Your Green Journey",
+      "bullets": [
+        "Discover & Fund: Browse pre-vetted green projects, invest with any budget.",
+        "Earn & Trade: Receive dividends from projects and acquire verified carbon credits.",
+        "Track & Report: Real-time AI-powered analytics on your environmental and financial impact.",
+        "Community & Education: Engage with a global community, learn about sustainability."
+      ],
+      "speaker_notes": "Our platform is designed for simplicity and transparency. Users can easily discover and fund green projects, earning returns on their investments. They can also acquire and trade verified carbon credits, directly offsetting their footprint. Crucially, our smart technology and AI analytics provide real-time tracking of both financial performance and environmental impact, fostering trust and accountability. It's about making sustainability actionable and rewarding."
+    },
+    {
+      "title": "Market Opportunity & Impact",
+      "bullets": [
+        "Growing ESG Demand: $30+ trillion in ESG assets globally.",
+        "Voluntary Carbon Market: Projected to reach $50B by 2030.",
+        "Individual Empowerment: Democratizing access to green finance for millions.",
+        "Real-World Impact: Accelerating the transition to a net-zero economy."
+      ],
+      "speaker_notes": "The market for sustainable solutions is exploding. ESG investments are soaring, and the voluntary carbon market is set for exponential growth. KIROS is perfectly positioned to capture a significant share of this market by empowering individuals and businesses who are eager to contribute but lack the right tools. We're not just building a platform; we're building a movement that drives real, measurable environmental change."
+    },
+    {
+      "title": "Business Model & Revenue Streams",
+      "bullets": [
+        "Transaction Fees: Small percentage on project investments and carbon credit trades.",
+        "Subscription Tiers: Premium analytics, advanced reporting, and exclusive project access for businesses.",
+        "Project Management Fees: For sourcing, vetting, and managing green projects on the platform.",
+        "Partnerships: Collaborations with corporations for large-scale offsetting and green initiatives."
+      ],
+      "speaker_notes": "Our revenue model is robust and diversified. We generate income through transaction fees on both investment and carbon credit activities. We also offer premium subscription tiers for businesses seeking deeper insights and exclusive opportunities. Additionally, we charge fees for the rigorous vetting and management of the green projects listed on our platform, ensuring quality and compliance. This multi-faceted approach ensures sustainable growth and profitability."
+    },
+    {
+      "title": "Our Vision: A Sustainable Future, Together",
+      "bullets": [
+        "Democratize access to impactful green investments globally.",
+        "Become the leading platform for transparent carbon management.",
+        "Foster a global community actively fighting climate change.",
+        "Drive significant capital towards critical renewable energy projects."
+      ],
+      "speaker

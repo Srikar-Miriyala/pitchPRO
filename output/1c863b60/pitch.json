@@ -1,0 +1,106 @@
+{
+  "tagline": "Style Sustainably. Rent Responsibly.",
+  "elevator_pitch": "We offer a premium, sustainable fashion rental service, allowing consumers to enjoy diverse, high-quality styles without the environmental impact and cost of fast fashion, fostering a circular economy.",
+  "executive_summary": "The fashion industry is a major contributor to global waste and pollution, with consumers increasingly seeking sustainable alternatives without compromising on style or variety. Our startup addresses this by providing a curated rental platform for ethically sourced and sustainably produced garments. We empower fashion-conscious individuals to access a rotating wardrobe of designer and independent sustainable brands for various occasions, from everyday wear to special events. Our model reduces textile waste, extends garment lifecycles, and makes sustainable fashion accessible and affordable, tapping into a rapidly growing market of environmentally aware consumers and the broader sharing economy.",
+  "slides": [
+    {
+      "title": "The Fashion Dilemma: Style vs. Sustainability",
+      "bullets": [
+        "Fast fashion's environmental toll: 10% of global carbon emissions, massive textile waste.",
+        "High cost of ownership for quality, sustainable garments.",
+        "Limited wardrobe versatility and 'wear once' culture for special occasions.",
+        "Growing consumer demand for ethical and eco-friendly choices."
+      ],
+      "speaker_notes": "We're at a crossroads where consumers want to look good but are increasingly aware of the planet's cost. The current fashion model is unsustainable, leading to guilt and financial strain for those seeking variety and quality."
+    },
+    {
+      "title": "Our Solution: [Your Brand Name] - Sustainable Style, On Demand",
+      "bullets": [
+        "Curated collection of high-quality, certified sustainable fashion brands.",
+        "Flexible rental periods: from weekend events to monthly subscriptions.",
+        "Seamless online platform for browsing, booking, and returns.",
+        "Professional, eco-friendly cleaning and maintenance extending garment life.",
+        "Empowering a circular fashion economy."
+      ],
+      "speaker_notes": "We're building a platform that makes sustainable fashion effortless and exciting. Imagine having access to a constantly refreshed wardrobe of beautiful, ethically made clothes without the commitment of buying."
+    },
+    {
+      "title": "Market Opportunity: A Conscious Consumer Boom",
+      "bullets": [
+        "Global fashion rental market projected to reach $4.4 billion by 2028.",
+        "Millennials and Gen Z driving demand for sustainable and shared economy services.",
+        "Target demographics: Eco-conscious fashionistas, event-goers, budget-savvy professionals.",
+        "Partnerships with sustainable brands seeking wider reach and reduced waste."
+      ],
+      "speaker_notes": "The market is ripe for disruption. Consumers are actively seeking alternatives to fast fashion, and our service perfectly aligns with their values and desire for convenience and variety."
+    },
+    {
+      "title": "Our Business Model: Circular & Profitable",
+      "bullets": [
+        "Revenue Streams: Per-item rental fees, tiered subscription packages.",
+        "Strategic Partnerships: Collaborations with sustainable designers for exclusive collections.",
+        "Efficient Logistics: Optimized inventory management, eco-friendly shipping, in-house cleaning.",
+        "Value Proposition: Access to premium fashion, reduced environmental footprint, cost savings for consumers."
+      ],
+      "speaker_notes": "Our model is designed for both environmental and financial sustainability. We generate revenue through flexible rental options while minimizing operational costs through smart logistics and garment care."
+    },
+    {
+      "title": "Competitive Advantage: Beyond Just Rental",
+      "bullets": [
+        "Exclusive focus on certified sustainable and ethical brands.",
+        "AI-powered personalization for style recommendations and fit guidance.",
+        "Superior garment care and repair protocols, maximizing lifespan.",
+        "Community building: Styling tips, sustainability insights, member events.",
+        "Strong brand storytelling around impact and transparency."
+      ],
+      "speaker_notes": "We're not just a rental service; we're a sustainable fashion movement. Our commitment to curation, technology, and community sets us apart from general rental platforms."
+    },
+    {
+      "title": "Financial Projections: Path to Profitability",
+      "bullets": [
+        "Strong revenue growth driven by subscriber acquisition and increased rental frequency.",
+        "Healthy profit margins through efficient inventory utilization and operational scaling.",
+        "Initial investment focused on inventory build-out, technology development, and targeted marketing.",
+        "Projected positive cash flow by end of Year 2."
+      ],
+      "speaker_notes": "Our financial model demonstrates a clear path to profitability, fueled by a growing market and our efficient, scalable operations. We anticipate rapid growth as we expand our inventory and user base."
+    },
+    {
+      "title": "Join Us: Revolutionizing Fashion for a Sustainable Future",
+      "bullets": [
+        "Seeking $1.5M seed funding for inventory expansion, platform enhancement, and marketing.",
+        "Opportunity to invest in a high-growth, impact-driven business.",
+        "Be part of the solution to fashion's environmental crisis.",
+        "Together, we can make sustainable style accessible to everyone."
+      ],
+      "speaker_notes": "We invite you to join us in building the future of fashion – one that is stylish, sustainable, and accessible. Your investment will not only yield financial returns but also contribute to a healthier planet."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 450000,
+      "cost": 900000,
+      "profit": -450000
+    },
+    {
+      "year": 2,
+      "revenue": 2100000,
+      "cost": 1600000,
+      "profit": 500000
+    },
+    {
+      "year": 3,
+      "revenue": 5500000,
+      "cost": 3200000,
+      "profit": 2300000
+    }
+  ],
+  "assumptions": [
+    "Growing consumer awareness and willingness to pay for sustainable fashion alternatives.",
+    "Continued shift in consumer behavior towards renting/sharing economy models for apparel.",
+    "Ability to secure partnerships with a diverse range of high-quality, sustainable fashion brands.",
+    "Effective inventory management and garment longevity through professional care and repair.",
+    "Successful customer acquisition and retention through targeted marketing and a superior user experience."
+  ]
+}

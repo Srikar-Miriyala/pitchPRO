@@ -1,0 +1,9 @@
+{
+  "job_id": "health-tech",
+  "status": "done",
+  "finished_at": "2025-11-06T10:12:47.984053",
+  "duration_seconds": 17.75069,
+  "response_length": 7520,
+  "parse_success": false,
+  "pptx": "pitch.pptx"
+}

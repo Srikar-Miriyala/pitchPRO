@@ -1,0 +1,58 @@
+
+{
+  "tagline": "MicroLoans for Indian MSMEs — faster capital, smarter underwriting.",
+  "elevator_pitch": "An AI-driven marketplace connecting MSMEs in India to micro-lenders with instant credit decisions using transaction and GST signals — reducing friction and empowering growth.",
+  "executive_summary": "An AI-driven marketplace enabling MSMEs to access micro-loans with AI risk scoring, a marketplace of lenders and instant, paperless disbursals. Targeting urban & semi-urban MSMEs across retail, manufacturing and services.",
+  "slides": [
+    {
+      "title": "Title",
+      "bullets": ["AI micro-loans marketplace for Indian MSMEs", "Founder(s): Srikar M (example)", "Ask: ₹5 Cr"],
+      "speaker_notes": "Quick intro and ask."
+    },
+    {
+      "title": "Problem",
+      "bullets": ["MSMEs face slow access to credit", "Traditional underwriting ignores alternative signals", "High paperwork & time to disburse"],
+      "speaker_notes": "Explain pain and anecdote."
+    },
+    {
+      "title": "Solution",
+      "bullets": ["AI risk-scoring using GST & transaction data", "Marketplace of lenders with dynamic pricing", "Paperless onboarding & instant disbursal"],
+      "speaker_notes": "How model and marketplace reduce friction."
+    },
+    {
+      "title": "Market",
+      "bullets": ["Addressable: 6M formal MSMEs in India", "Initial TAM (servicable): 1M in urban clusters"],
+      "speaker_notes": "Market sizing notes."
+    },
+    {
+      "title": "Business Model",
+      "bullets": ["Platform takes 1-3% origination fee", "Subscription for premium lender analytics"],
+      "speaker_notes": "Revenue levers."
+    },
+    {
+      "title": "Go-to-Market",
+      "bullets": ["Partnerships with NBFCs & trade platforms", "Field ops pilot in 2 cities"],
+      "speaker_notes": "Channels & early traction plan."
+    },
+    {
+      "title": "Financials (3-year)",
+      "bullets": ["See financial table slide"],
+      "speaker_notes": "High level financial assumptions."
+    },
+    {
+      "title": "Team & Ask",
+      "bullets": ["Founders with fintech & AI background", "Hiring plans & ask: ₹5 Cr"],
+      "speaker_notes": "Wrap up and next steps."
+    }
+  ],
+  "financials": [
+    { "year": "2026", "revenue": 120.0, "cost": 80.0, "profit": 40.0 },
+    { "year": "2027", "revenue": 360.0, "cost": 240.0, "profit": 120.0 },
+    { "year": "2028", "revenue": 900.0, "cost": 600.0, "profit": 300.0 }
+  ],
+  "assumptions": [
+    "Avg loan ticket: ₹1.5L",
+    "Originations growth: 3x year-over-year",
+    "Take rate: 2% average origination fee"
+  ]
+}

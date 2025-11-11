@@ -1,0 +1,9 @@
+{
+  "job_id": "test-pptx-fix",
+  "status": "done",
+  "finished_at": "2025-11-06T11:06:07.484523",
+  "duration_seconds": 16.320472,
+  "response_length": 6344,
+  "parse_success": false,
+  "pptx": "pitch.pptx"
+}

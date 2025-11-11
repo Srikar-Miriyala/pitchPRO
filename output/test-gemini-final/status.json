@@ -1,0 +1,6 @@
+{
+  "job_id": "test-gemini-final",
+  "status": "error",
+  "error": "llm_failed",
+  "detail": "Gemini request failed for tried models ['models/text-bison-001', 'gemini-2.5-flash', 'gemini-2.5', 'gemini-1.5']. Last error: module 'google.generativeai' has no attribute 'generate_text'"
+}

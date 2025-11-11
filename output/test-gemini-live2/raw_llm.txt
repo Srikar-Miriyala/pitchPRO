@@ -1,0 +1,65 @@
+```json
+{
+  "tagline": "FinCred: Intelligent Capital for India's MSMEs.",
+  "elevator_pitch": "FinCred is an AI-driven lending marketplace connecting Indian MSMEs with institutional lenders. We leverage alternative data and proprietary risk models to provide instant, collateral-free micro-loans, fueling growth for the backbone of India's economy.",
+  "executive_summary": "India's 63 million MSMEs face a significant credit gap due to the limitations of traditional underwriting. FinCred addresses this by using AI to analyze GST filings, transaction histories, and other digital footprints, creating a robust, real-time credit score. Our marketplace model connects pre-qualified borrowers with a network of NBFC partners, earning a commission on each loan disbursed while reducing risk and processing time for lenders.",
+  "slides": [
+    {
+      "title": "FinCred: AI-Powered MSME Lending",
+      "bullets": [
+        "Unlocking Working Capital for India's Growth Engine",
+        "Founders with Fintech & AI Expertise",
+        "Ask: $2M Seed Funding"
+      ],
+      "speaker_notes": "We are FinCred, an AI-powered marketplace providing essential micro-loans to Indian MSMEs. We are seeking $2 million to scale our platform and operations."
+    },
+    {
+      "title": "The Problem: A Persistent Credit Gap",
+      "bullets": [
+        "$380B formal credit gap for Indian MSMEs",
+        "Slow, paper-intensive loan processes from traditional banks",
+        "High rejection rates due to lack of formal credit history",
+        "Inability of lenders to assess risk for new-economy businesses"
+      ],
+      "speaker_notes": "Millions of viable MSMEs are starved of working capital because traditional lenders cannot effectively assess their creditworthiness, creating a massive, underserved market."
+    },
+    {
+      "title": "Our Solution: An Intelligent Lending Marketplace",
+      "bullets": [
+        "AI-driven credit scoring using alternative data (GST, banking)",
+        "Instant loan decisions and rapid disbursal",
+        "A curated marketplace of NBFCs and other lenders",
+        "Seamless, digital-first onboarding and user experience"
+      ],
+      "speaker_notes": "Our platform uses AI to analyze real-time business data, providing a fast, accurate risk assessment that connects MSMEs with the right capital instantly."
+    },
+    {
+      "title": "Market Opportunity",
+      "bullets": [
+        "Total Addressable Market (TAM): 63M+ MSMEs in India",
+        "Serviceable Addressable Market (SAM): $50B in annual micro-loan demand",
+        "Initial Target: 1M tech-savvy MSMEs in Tier-1 & Tier-2 cities"
+      ],
+      "speaker_notes": "The market for MSME micro-lending is vast and growing. Our initial focus on digitally-enabled merchants provides a clear path to capturing a significant share."
+    },
+    {
+      "title": "Business Model",
+      "bullets": [
+        "Primary: 2-4% commission on loan origination, paid by lenders",
+        "Secondary: Platform fees for premium data analytics for lenders",
+        "Future: Cross-selling of insurance and other financial products"
+      ],
+      "speaker_notes": "Our primary revenue stream is a success-based commission from lending partners, ensuring our goals are aligned with both lenders and borrowers."
+    },
+    {
+      "title": "Go-to-Market Strategy",
+      "bullets": [
+        "Onboard initial NBFC and Small Finance Bank partners",
+        "Targeted digital marketing campaigns on professional networks",
+        "Integrate with accounting, e-commerce, and POS platforms",
+        "Build a lean inside sales team for high-value accounts"
+      ],
+      "speaker_notes": "We will leverage a multi-channel approach, focusing on strategic partnerships for lender acquisition and targeted digital outreach for borrower onboarding."
+    },
+    {
+      "title":

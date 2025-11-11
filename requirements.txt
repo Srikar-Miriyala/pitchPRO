@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-pptx
+rq
+redis
+requests

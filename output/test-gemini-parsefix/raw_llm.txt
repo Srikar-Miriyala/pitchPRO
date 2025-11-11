@@ -1,0 +1,32 @@
+```json
+{
+  "tagline": "CrediSwift: Intelligent Capital for India's MSMEs.",
+  "elevator_pitch": "CrediSwift is an AI-driven marketplace connecting Indian MSMEs with lenders for instant, collateral-free micro-loans. Our platform uses alternative data signals like GST filings and transaction history to underwrite credit, reducing processing time from weeks to minutes.",
+  "executive_summary": "CrediSwift addresses the significant credit gap faced by India's 60 million MSMEs. By leveraging AI to analyze non-traditional data, we provide rapid and reliable credit risk assessments, enabling our network of NBFC partners to disburse micro-loans efficiently. We project to facilitate ₹500 Cr in loans within three years, capturing a 1.5% origination fee.",
+  "slides": [
+    {
+      "title": "CrediSwift: AI-Powered MSME Lending",
+      "bullets": [
+        "Unlocking working capital for India's growth engine",
+        "AI-driven marketplace for micro-loans",
+        "Ask: ₹5 Cr for 10% equity"
+      ],
+      "speaker_notes": "Introducing CrediSwift, an AI-driven platform to solve the MSME credit challenge. We are seeking ₹5 Cr to scale our technology and operations."
+    },
+    {
+      "title": "The Problem: The MSME Credit Gap",
+      "bullets": [
+        "₹20 Trillion credit gap for Indian MSMEs",
+        "Slow, paper-intensive loan processes",
+        "Over-reliance on traditional credit scores and collateral",
+        "High rejection rates from formal banking channels"
+      ],
+      "speaker_notes": "Millions of viable MSMEs are starved of working capital due to inefficient and outdated lending practices, severely limiting their growth."
+    },
+    {
+      "title": "Our Solution: An Intelligent Lending Marketplace",
+      "bullets": [
+        "AI-powered risk engine using GST and banking data",
+        "Instant loan eligibility and decisioning",
+        "Marketplace model connecting MSMEs to multiple NBFCs",
+        "Seamless

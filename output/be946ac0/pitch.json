@@ -1,0 +1,119 @@
+{
+  "tagline": "Orbital Energy: Delivering Constant, Clean Power from Space, Day and Night.",
+  "elevator_pitch": "We're developing a space-based solar power system that captures solar energy in orbit and beams it to Earth via microwaves, providing an uninterrupted, clean energy source unaffected by terrestrial conditions.",
+  "executive_summary": "Our startup, Orbital Energy Solutions, is pioneering the development of a revolutionary space-based solar power (SBSP) system. This innovative technology will deploy large solar arrays in geostationary orbit, where sunlight is constant and intense, free from atmospheric interference. The collected energy will then be converted into microwaves and safely transmitted to rectifying antennas (rectennas) on Earth, delivering a continuous, dispatchable, and carbon-free power supply. Unlike traditional renewables, SBSP operates 24/7, overcoming intermittency challenges and offering a scalable solution to meet the world's growing energy demand while significantly reducing reliance on fossil fuels and mitigating climate change.",
+  "slides": [
+    {
+      "title": "The Global Energy Challenge",
+      "bullets": [
+        "Soaring global energy demand, projected to increase by 50% by 2050.",
+        "Urgent need for clean, reliable, and scalable energy solutions.",
+        "Intermittency of terrestrial renewables (solar, wind) limits baseload capacity.",
+        "Climate change demands a rapid transition away from fossil fuels."
+      ],
+      "speaker_notes": "We face a critical juncture in global energy. Demand is skyrocketing, climate change is accelerating, and current clean energy solutions, while vital, struggle with consistency. This creates a massive gap for a truly dispatchable, carbon-free power source."
+    },
+    {
+      "title": "Our Solution: Space-Based Solar Power (SBSP)",
+      "bullets": [
+        "Large solar arrays deployed in geostationary orbit (GEO).",
+        "Constant solar energy capture, 24 hours a day, 7 days a week.",
+        "Energy converted to high-frequency microwaves for transmission.",
+        "Microwave beam safely directed to ground-based rectifying antennas (rectennas).",
+        "Rectennas convert microwaves directly into grid-ready electricity."
+      ],
+      "speaker_notes": "Our solution leverages the ultimate power source: the sun, uninterrupted by Earth's atmosphere or night cycle. By placing solar arrays in GEO, we ensure continuous energy collection, which is then safely and efficiently beamed to Earth, providing a constant power supply."
+    },
+    {
+      "title": "Unmatched Advantages & Impact",
+      "bullets": [
+        "24/7 Baseload Power: Unaffected by weather, clouds, or night cycles.",
+        "Zero Carbon Emissions: A truly clean energy source.",
+        "High Efficiency: No atmospheric absorption or scattering in orbit.",
+        "Global Energy Security: Potential to power remote regions and stabilize grids.",
+        "Scalable & Sustainable: Modular design allows for incremental expansion."
+      ],
+      "speaker_notes": "SBSP offers unparalleled advantages. It's the only renewable source capable of providing constant baseload power, addressing the intermittency challenge head-on. This isn't just clean energy; it's reliable, scalable, and has the potential to transform global energy security."
+    },
+    {
+      "title": "Market Opportunity & Target Customers",
+      "bullets": [
+        "Global electricity market valued at over $2.5 trillion annually.",
+        "Targeting energy-hungry nations and regions with high demand for stable power.",
+        "Industrial sectors requiring uninterrupted, high-quality power supply.",
+        "Grid operators seeking reliable, dispatchable renewable energy to balance their networks.",
+        "Addressing critical infrastructure needs in disaster-prone areas."
+      ],
+      "speaker_notes": "The market for reliable, clean energy is immense and growing. We're not just competing with other renewables; we're offering a solution that complements them by providing the baseload stability currently dominated by fossil fuels. Our initial focus will be on regions with high energy costs and critical reliability needs."
+    },
+    {
+      "title": "Technology & Roadmap",
+      "bullets": [
+        "Leveraging advancements in lightweight materials, robotics, and power electronics.",
+        "Modular satellite design for cost-effective manufacturing and deployment.",
+        "Phased development: Ground-based demonstrator, orbital prototype, commercial pilot.",
+        "Strategic partnerships with aerospace, energy, and manufacturing leaders.",
+        "Focus on safety protocols for microwave transmission and orbital operations."
+      ],
+      "speaker_notes": "While ambitious, the core technologies for SBSP are maturing rapidly. Our roadmap is designed for incremental de-risking, starting with ground-based validation and moving to orbital demonstrators. We're building a coalition of partners to accelerate development and ensure robust, safe operations."
+    },
+    {
+      "title": "The Team",
+      "bullets": [
+        "Dr. Anya Sharma (CEO): 20+ years in aerospace engineering, former lead at NASA JPL.",
+        "Mark Chen (CTO): Pioneer in microwave power transmission, 15+ patents.",
+        "Sarah Khan (CFO): Expertise in large-scale infrastructure financing and renewable energy investments.",
+        "Diverse team of engineers, scientists, and business strategists with deep domain expertise."
+      ],
+      "speaker_notes": "Our team brings together unparalleled expertise in space technology, energy systems, and large-scale project management. We have the vision, technical acumen, and financial savvy to make space-based solar power a reality."
+    },
+    {
+      "title": "Financial Projections & The Ask",
+      "bullets": [
+        "Year 1-3: Significant R&D and prototyping investment.",
+        "Year 4-6: Orbital demonstrator launch and initial commercial partnerships.",
+        "Year 7+: Scaled deployment and revenue generation from power sales.",
+        "Seeking $50M in seed funding to complete ground-based testing and initiate orbital prototype development.",
+        "Clear path to profitability with projected IRR exceeding 25% post-commercialization."
+      ],
+      "speaker_notes": "This is a long-term, high-impact investment. Our initial years will focus on critical R&D and de-risking the technology. We project substantial returns once commercial deployment begins, driven by the immense demand for constant, clean energy. We are seeking strategic partners to join us on this transformative journey."
+    },
+    {
+      "title": "Join Us: Powering Earth's Future",
+      "bullets": [
+        "Invest in a truly disruptive technology that redefines global energy.",
+        "Be part of the solution to climate change and energy poverty.",
+        "Secure a stake in the next frontier of sustainable infrastructure.",
+        "Together, we can deliver infinite, clean power from space."
+      ],
+      "speaker_notes": "Space-based solar power is not just an idea; it's an inevitable future. We invite you to be a foundational partner in Orbital Energy Solutions, to help us build a future where energy is abundant, clean, and accessible to all. Let's power Earth's future, from space."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 0,
+      "cost": 15000000,
+      "profit": -15000000
+    },
+    {
+      "year": 2,
+      "revenue": 0,
+      "cost": 25000000,
+      "profit": -25000000
+    },
+    {
+      "year": 3,
+      "revenue": 5000000,
+      "cost": 35000000,
+      "profit": -30000000
+    }
+  ],
+  "assumptions": [
+    "Continued advancements in space launch cost reduction and in-orbit assembly capabilities.",
+    "Successful development and validation of efficient, high-power microwave transmission technology with minimal atmospheric attenuation.",
+    "Favorable regulatory environment for spectrum allocation and safe operation of ground-based rectennas.",
+    "Public acceptance of large-scale space infrastructure and microwave power transmission.",
+    "Availability of significant long-term capital investment required for large-scale infrastructure projects."
+  ]
+}

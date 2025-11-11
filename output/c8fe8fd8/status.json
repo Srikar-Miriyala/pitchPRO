@@ -1,0 +1,1 @@
+{"job_id": "c8fe8fd8", "status": "error", "error": "LLM generation failed: All generation methods failed. SDK: GEMINI_API_KEY environment variable required, REST: GEMINI_API_KEY required for REST fallback", "finished_at": "2025-11-06T11:20:51.712428"}

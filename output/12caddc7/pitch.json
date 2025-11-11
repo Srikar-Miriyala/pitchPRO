@@ -1,0 +1,104 @@
+{
+  "tagline": "Sun-Powered Purity: Clean Water for Every Community, Funded by All.",
+  "elevator_pitch": "We're empowering rural communities with access to safe drinking water through our robust, solar-powered purification devices, funded by a global community and monitored for real-time impact via a transparent mobile app.",
+  "executive_summary": "Millions in rural regions lack access to safe drinking water, leading to widespread health issues and hindering development. Our solution, AquaSun, is a durable, solar-powered water purification device designed specifically for these challenging environments. AquaSun's innovative business model leverages global crowdfunding, allowing individuals and organizations to sponsor devices for specific communities. Each deployed unit is equipped with IoT sensors, providing real-time data on water quality and usage, accessible through a user-friendly mobile app. This transparency not only assures donors of their impact but also enables proactive maintenance and community engagement, creating a sustainable, scalable pathway to clean water for all.",
+  "slides": [
+    {
+      "title": "The Global Water Crisis: A Pressing Need",
+      "bullets": [
+        "2.2 billion people lack safely managed drinking water globally.",
+        "Rural communities disproportionately affected by contamination and scarcity.",
+        "Waterborne diseases cause millions of preventable deaths annually, especially among children.",
+        "Existing solutions are often expensive, unreliable, or require complex infrastructure."
+      ],
+      "speaker_notes": "We begin by acknowledging the stark reality: the global water crisis is not just a statistic, but a daily struggle for billions. Rural areas, in particular, bear the brunt of this challenge, facing contaminated sources and a lack of sustainable solutions."
+    },
+    {
+      "title": "Introducing AquaSun: Our Sustainable Solution",
+      "bullets": [
+        "Robust, solar-powered water purification device designed for off-grid use.",
+        "Provides safe, potable water from various sources (rivers, wells, boreholes).",
+        "Low maintenance, high efficiency, and built for a long lifespan in harsh environments.",
+        "Eliminates reliance on grid electricity or expensive consumables."
+      ],
+      "speaker_notes": "Our answer is AquaSun. A self-sufficient, solar-powered purification system built to withstand harsh conditions. It's designed for simplicity and durability, ensuring communities have a reliable source of clean water without needing complex infrastructure or constant external support."
+    },
+    {
+      "title": "Innovation & Transparency: The AquaSun Ecosystem",
+      "bullets": [
+        "Advanced multi-stage filtration and UV sterilization for comprehensive purification.",
+        "Integrated IoT sensors provide real-time water quality and usage data.",
+        "Crowdfunding platform: Donors can sponsor a device and track its journey.",
+        "Mobile App: Monitor impact, engage with communities, and ensure accountability."
+      ],
+      "speaker_notes": "AquaSun isn't just a filter; it's a smart solution. We integrate advanced purification technologies with IoT sensors, providing unprecedented transparency. Our crowdfunding model allows anyone to directly fund a device, and then track its real-time impact through our intuitive mobile app, fostering a direct connection between donors and beneficiaries."
+    },
+    {
+      "title": "Our Business Model: Impact Through Crowdfunding",
+      "bullets": [
+        "Revenue generated through individual and institutional crowdfunding campaigns.",
+        "Partnerships with NGOs and corporate CSR programs for bulk deployments.",
+        "Subscription model for ongoing maintenance and data services (optional for communities).",
+        "Focus on cost-effective manufacturing and local community training for sustainability."
+      ],
+      "speaker_notes": "Our business model is built on impact. We leverage the power of global crowdfunding, allowing individuals and organizations to directly contribute to clean water access. This is complemented by strategic partnerships and a future-proof service model to ensure long-term sustainability."
+    },
+    {
+      "title": "Market Opportunity & Scalability",
+      "bullets": [
+        "Targeting 2.2 billion people in rural, underserved regions globally.",
+        "Initial focus on high-impact regions in Sub-Saharan Africa and Southeast Asia.",
+        "Scalable manufacturing and deployment model allows for rapid expansion.",
+        "Strong potential for partnerships with governments, humanitarian organizations, and development agencies."
+      ],
+      "speaker_notes": "The market opportunity is immense, driven by a fundamental human need. We're starting with targeted regions where the need is greatest and infrastructure is lacking, but our modular design and crowdfunding model allow for rapid, global scalability through strategic partnerships."
+    },
+    {
+      "title": "Financial Projections & The Ask",
+      "bullets": [
+        "Projected revenue growth driven by increasing crowdfunding adoption and institutional partnerships.",
+        "Strong profit margins as manufacturing scales and operational efficiencies improve.",
+        "Seeking $1.5M seed funding for R&D completion, initial manufacturing setup, and platform launch.",
+        "Path to profitability within 3 years, demonstrating both social and financial returns."
+      ],
+      "speaker_notes": "Our financial model shows a clear path to sustainability and profitability, fueled by both individual crowdfunding and larger institutional grants. We are seeking seed funding to finalize our prototype, scale manufacturing, and launch our crowdfunding platform, positioning us for significant impact and returns."
+    },
+    {
+      "title": "Our Vision: Clean Water for All",
+      "bullets": [
+        "Transforming lives and fostering development through universal access to safe drinking water.",
+        "Building a global community of impact-driven donors and empowered beneficiaries.",
+        "Pioneering transparent, sustainable humanitarian technology solutions.",
+        "Join us in making clean water a reality, not a privilege."
+      ],
+      "speaker_notes": "Our vision is simple yet profound: to ensure every person, regardless of their location, has access to clean, safe drinking water. We invite you to join us on this journey, to invest in a future where technology, transparency, and community collaboration solve one of humanity's most pressing challenges."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 250000,
+      "cost": 700000,
+      "profit": -450000
+    },
+    {
+      "year": 2,
+      "revenue": 1500000,
+      "cost": 1200000,
+      "profit": 300000
+    },
+    {
+      "year": 3,
+      "revenue": 5000000,
+      "cost": 3000000,
+      "profit": 2000000
+    }
+  ],
+  "assumptions": [
+    "A significant number of individuals and organizations will be willing to fund devices through our platform, driven by the transparent impact monitoring.",
+    "The AquaSun device will effectively purify water to WHO standards and withstand harsh rural conditions with minimal maintenance for its projected lifespan.",
+    "Rural communities will readily adopt the technology, take ownership of the devices, and participate in local maintenance and monitoring.",
+    "We can establish efficient and cost-effective manufacturing and a reliable supply chain for components and distribution to remote areas.",
+    "Sufficient cellular or satellite connectivity will be available in target rural regions to enable real-time data transmission from the devices to the app."
+  ]
+}

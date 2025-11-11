@@ -1,0 +1,101 @@
+{
+  "tagline": "Smart loans marketplace — AI underwriting (a2c8d434)",
+  "elevator_pitch": "AI-driven marketplace connecting MSMEs to micro-lenders with instant underwriting and dynamic pricing.",
+  "executive_summary": "We enable MSMEs to access micro-loans via AI risk signals and a lender marketplace. Target urban SME clusters and scale to 200k merchants in 3 years.",
+  "slides": [
+    {
+      "title": "Title",
+      "bullets": [
+        "AI micro-loans marketplace",
+        "Founders: You",
+        "Ask: ₹5 Cr"
+      ],
+      "speaker_notes": "Intro and ask."
+    },
+    {
+      "title": "Problem",
+      "bullets": [
+        "Slow access to credit",
+        "High paperwork",
+        "Traditional underwriting ignores alternative signals"
+      ],
+      "speaker_notes": "Explain pain."
+    },
+    {
+      "title": "Solution",
+      "bullets": [
+        "AI risk scoring using transaction & GST data",
+        "Marketplace of lenders",
+        "Paperless onboarding & instant disbursal"
+      ],
+      "speaker_notes": "How solution solves pain."
+    },
+    {
+      "title": "Market",
+      "bullets": [
+        "Addressable: 6M formal MSMEs",
+        "Initial TAM: 1M in cities"
+      ],
+      "speaker_notes": "Sizing notes."
+    },
+    {
+      "title": "Business Model",
+      "bullets": [
+        "1-3% origination fee",
+        "Subscription analytics for lenders"
+      ],
+      "speaker_notes": "Revenue levers."
+    },
+    {
+      "title": "Go-to-Market",
+      "bullets": [
+        "Partnerships with NBFCs",
+        "Field pilots in 2 cities"
+      ],
+      "speaker_notes": "Channels & pilots."
+    },
+    {
+      "title": "Financials (3-year)",
+      "bullets": [
+        "See financial table slide"
+      ],
+      "speaker_notes": "High-level assumptions."
+    },
+    {
+      "title": "Team & Ask",
+      "bullets": [
+        "Founders with fintech & AI experience",
+        "Hiring & ask: ₹5 Cr"
+      ],
+      "speaker_notes": "Wrap up."
+    }
+  ],
+  "financials": [
+    {
+      "year": "2026",
+      "revenue": 139.2,
+      "cost": 98.6,
+      "profit": 40.6
+    },
+    {
+      "year": "2027",
+      "revenue": 417.6,
+      "cost": 278.4,
+      "profit": 139.2
+    },
+    {
+      "year": "2028",
+      "revenue": 1044.0,
+      "cost": 696.0,
+      "profit": 348.0
+    }
+  ],
+  "assumptions": [
+    "Avg loan ticket: ₹1.5L",
+    "Originations growth: 3x YoY",
+    "Take rate: 2% origination"
+  ],
+  "meta": {
+    "seed": "a2c8d434"
+  }
+}

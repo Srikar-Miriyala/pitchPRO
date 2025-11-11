@@ -1,0 +1,9 @@
+{
+  "job_id": "77cd88e3",
+  "status": "done",
+  "finished_at": "2025-11-06T12:56:56.723549",
+  "duration_seconds": 18.790742,
+  "response_length": 6956,
+  "parse_success": false,
+  "pptx": "pitch.pptx"
+}

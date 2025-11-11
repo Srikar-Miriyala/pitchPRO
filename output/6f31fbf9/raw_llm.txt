@@ -1,0 +1,1 @@
+LLM generation failed: All generation methods failed. SDK: GEMINI_API_KEY environment variable required, REST: GEMINI_API_KEY required for REST fallback

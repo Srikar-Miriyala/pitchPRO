@@ -1,0 +1,52 @@
+```json
+{
+  "tagline": "KIROS: Invest in a Greener Planet, Profit from a Sustainable Future.",
+  "elevator_pitch": "KIROS is a dual-layer platform democratizing access to renewable energy micro-investment and verified carbon credit trading, empowering individuals and businesses to fund green projects, track their impact, and profit from a sustainable future.",
+  "executive_summary": "The escalating climate crisis demands accessible and transparent solutions for both individuals and businesses to contribute meaningfully. KIROS addresses this by introducing an innovative dual-layer platform that seamlessly merges clean energy generation investment with a robust carbon credit trading marketplace. Leveraging smart technology and AI analytics, KIROS empowers users to micro-invest in vetted green projects, earn verified carbon credits, and monitor their environmental footprint in real-time. Our platform is designed to foster transparency, enhance accessibility, and drive profitability, transforming the fight against climate change into a tangible and rewarding endeavor for everyone.",
+  "slides": [
+    {
+      "title": "KIROS: Investing in a Greener Tomorrow",
+      "bullets": [
+        "Revolutionizing Carbon Management & Renewable Energy Investment",
+        "Empowering Global Participation in Sustainability"
+      ],
+      "speaker_notes": "Good morning/afternoon. We are KIROS, and we're here to talk about a future where fighting climate change is not just a necessity, but an accessible and profitable opportunity for everyone."
+    },
+    {
+      "title": "The Climate Challenge: A Call for Action & Accessibility",
+      "bullets": [
+        "Urgent Climate Crisis: Global warming demands immediate, scalable solutions.",
+        "Inaccessible Green Investment: High barriers for individuals and SMEs to fund renewable projects.",
+        "Opaque Carbon Markets: Lack of transparency and trust hinders broader participation in carbon credit trading.",
+        "Limited Impact Tracking: Difficulty for users to see the direct environmental benefit of their contributions."
+      ],
+      "speaker_notes": "We all know the climate crisis is urgent. But for many, contributing feels out of reach. Green investments are often complex and require significant capital, while carbon markets are notoriously opaque, making it hard for everyday people and even small businesses to engage effectively or trust their impact."
+    },
+    {
+      "title": "The KIROS Solution: A Dual-Layer Platform",
+      "bullets": [
+        "Layer 1: Green Project Micro-Investment: Fund vetted renewable energy and sustainability projects with flexible contributions.",
+        "Layer 2: Verified Carbon Credit Marketplace: Trade high-quality, blockchain-verified carbon credits with transparency.",
+        "Smart Technology & AI Analytics: Real-time impact tracking, project performance monitoring, and market insights.",
+        "Democratizing Sustainability: Making climate action accessible, transparent, and profitable for all."
+      ],
+      "speaker_notes": "Our solution is KIROS, a unique dual-layer platform. On one layer, you can micro-invest in carefully vetted green projects, from solar farms to reforestation. On the second, you can trade verified carbon credits, ensuring every credit represents a real reduction. All powered by smart tech and AI for unparalleled transparency and real-time impact tracking."
+    },
+    {
+      "title": "How KIROS Works: Engage, Invest, Track, Profit",
+      "bullets": [
+        "Discover & Fund: Browse diverse green projects, invest any amount.",
+        "Earn & Trade: Receive verified carbon credits from funded projects, trade them on our marketplace.",
+        "Track Your Impact: AI-driven dashboards show your environmental contribution and financial returns.",
+        "Community & Education: Learn about sustainability, connect with like-minded investors."
+      ],
+      "speaker_notes": "It's simple. Users discover and fund projects that resonate with them. As projects generate clean energy or sequester carbon, users earn verified carbon credits, which they can then trade. Our AI provides real-time dashboards, showing both their environmental impact and financial returns, fostering a truly engaged community."
+    },
+    {
+      "title": "Market Opportunity & Impact",
+      "bullets": [
+        "Growing Carbon Market: Projected to reach $2.4 trillion by 2027 (voluntary & compliance).",
+        "Surging Green Investment: Global sustainable investment assets exceed $35 trillion.",
+        "ESG & Corporate Net-Zero Pledges: Driving demand for verifiable carbon offsets and green initiatives.",
+        "Individual Empowerment: Millions seeking tangible ways to contribute to climate action."
+      ],

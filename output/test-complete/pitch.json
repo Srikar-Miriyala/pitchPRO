@@ -1,0 +1,113 @@
+{
+  "tagline": "AI-Powered Capital: Unlocking Growth for Every Small Business.",
+  "elevator_pitch": "We leverage advanced AI to provide rapid, data-driven micro-loans to small businesses often overlooked by traditional lenders, fueling their growth and economic impact.",
+  "executive_summary": "Small businesses are the backbone of our economy, yet they consistently face significant hurdles in accessing timely and adequate capital from traditional financial institutions. These institutions often have stringent requirements, slow processes, and a bias against smaller loan amounts, leaving millions of businesses underserved. LendAI addresses this critical funding gap by utilizing a proprietary AI algorithm to assess creditworthiness from diverse data points, enabling instant approvals and rapid disbursement of micro-loans. Our platform offers a streamlined, fair, and flexible lending solution, reducing operational costs and risk while empowering small businesses to thrive. We aim to capture a significant share of the multi-billion dollar small business lending market, driving both financial returns and substantial positive societal impact.",
+  "slides": [
+    {
+      "title": "LendAI: Intelligent Capital for Small Business Growth",
+      "bullets": [
+        "AI-Powered Micro-loans",
+        "Unlocking Economic Potential for Underserved Businesses"
+      ],
+      "speaker_notes": "Good morning, everyone. We are LendAI, and we're here to revolutionize how small businesses access the capital they need to grow. Our mission is simple: to provide intelligent, accessible funding solutions."
+    },
+    {
+      "title": "The Small Business Funding Gap",
+      "bullets": [
+        "Traditional lenders overlook small businesses due to perceived high risk, lack of collateral, or insufficient credit history.",
+        "Slow, cumbersome application processes can take weeks or months, missing critical growth opportunities.",
+        "High rejection rates for vital capital stifle innovation and job creation.",
+        "This creates a multi-billion dollar unmet demand for capital under $100,000."
+      ],
+      "speaker_notes": "The problem is clear: small businesses, despite being economic drivers, are consistently underserved by traditional finance. They face a funding gap that prevents them from expanding, hiring, and innovating."
+    },
+    {
+      "title": "Our Solution: LendAI's AI-Driven Micro-loans",
+      "bullets": [
+        "Proprietary AI algorithm analyzes diverse data points (transaction history, social media, market trends) for comprehensive creditworthiness.",
+        "Automated, streamlined application and approval process in minutes, not weeks.",
+        "Tailored loan products from $500 to $50,000, designed for flexibility.",
+        "Lower operational costs translate to better rates and terms for borrowers."
+      ],
+      "speaker_notes": "LendAI's solution is built on cutting-edge AI. We move beyond traditional credit scores, using a holistic data approach to assess risk accurately and efficiently. This allows us to offer fast, fair, and flexible micro-loans."
+    },
+    {
+      "title": "How It Works: Seamless Lending, Intelligent Decisions",
+      "bullets": [
+        "1. Business applies online, securely connecting existing data sources (e.g., accounting software, bank accounts).",
+        "2. AI instantly assesses risk, verifies identity, and determines loan eligibility and terms.",
+        "3. Funds disbursed directly to the business's bank account within hours of approval.",
+        "4. Automated repayment tracking and proactive support for borrowers."
+      ],
+      "speaker_notes": "Our process is designed for simplicity and speed. A business can apply, get approved, and receive funds all within a single business day, removing the friction and delays common in traditional lending."
+    },
+    {
+      "title": "Market Opportunity & Impact",
+      "bullets": [
+        "Over 33 million small businesses in the US alone, with significant unmet demand for capital.",
+        "Targeting a segment of the $1.5 trillion small business lending market.",
+        "Empowering local economies, fostering job creation, and promoting financial inclusion.",
+        "Scalable model with potential for global expansion into similar underserved markets."
+      ],
+      "speaker_notes": "The market is enormous and ripe for disruption. By serving this overlooked segment, LendAI not only builds a profitable business but also creates a profound positive impact on communities and economies."
+    },
+    {
+      "title": "Competitive Advantage: Speed, Data, and Accessibility",
+      "bullets": [
+        "Superior AI risk assessment leads to lower default rates compared to manual underwriting.",
+        "Unmatched speed from application to funding, a critical differentiator for small businesses.",
+        "Access to capital for businesses traditionally excluded by banks and even some fintech lenders.",
+        "Lower overheads and operational efficiency allow for competitive pricing and higher margins."
+      ],
+      "speaker_notes": "Our competitive edge lies in our technology and our focus. We're faster, smarter, and more inclusive than existing options, allowing us to serve a broader market more effectively and profitably."
+    },
+    {
+      "title": "Our Vision: Reshaping Small Business Finance",
+      "bullets": [
+        "Become the leading AI-powered micro-lender for small businesses globally.",
+        "Continuously enhance our AI models for predictive accuracy and personalized financial products.",
+        "Expand into adjacent financial services, becoming a holistic financial partner for small businesses.",
+        "Foster a future where capital access is never a barrier to entrepreneurial success."
+      ],
+      "speaker_notes": "Our vision extends beyond just micro-loans. We aim to be a comprehensive financial partner for small businesses, leveraging AI to support their entire growth journey and remove financial barriers."
+    },
+    {
+      "title": "The Ask: Join Us in Building the Future of Finance",
+      "bullets": [
+        "Seeking $5 Million in Seed Funding to:",
+        "- Scale our AI platform and expand our engineering team.",
+        "- Launch targeted marketing campaigns to accelerate customer acquisition.",
+        "- Grow our loan book and operational capacity.",
+        "Opportunity to invest in a high-growth, high-impact fintech venture with strong returns."
+      ],
+      "speaker_notes": "We are seeking $5 million in seed funding to scale our operations, enhance our technology, and expand our reach. This is an opportunity to invest in a company that is not only poised for significant financial returns but also driving meaningful economic change."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 500000,
+      "cost": 1500000,
+      "profit": -1000000
+    },
+    {
+      "year": 2,
+      "revenue": 2000000,
+      "cost": 2000000,
+      "profit": 0
+    },
+    {
+      "year": 3,
+      "revenue": 5000000,
+      "cost": 2500000,
+      "profit": 2500000
+    }
+  ],
+  "assumptions": [
+    "Our proprietary AI model will accurately assess credit risk, maintaining a default rate below 5% for micro-loans.",
+    "There is significant and sustained demand for micro-loans (under $50,000) from small businesses underserved by traditional lenders.",
+    "We can acquire customers cost-effectively through digital marketing and strategic partnerships (e.g., e-commerce platforms, payment processors).",
+    "The regulatory environment for AI-driven lending will remain favorable or adaptable, allowing for continued innovation and operation.",
+    "We can maintain an average interest rate (APR) of 15-25% on our micro-loans, ensuring profitability while remaining competitive."
+  ]
+}

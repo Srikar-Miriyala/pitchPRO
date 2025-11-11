@@ -1,0 +1,101 @@
+```json
+{
+  "tagline": "Style on Demand, Sustainability in Hand.",
+  "elevator_pitch": "We are revolutionizing fashion consumption with a sustainable rental service, offering access to a curated collection of high-quality, ethical apparel. Our platform empowers fashion-conscious individuals to enjoy diverse styles, reduce waste, and embrace circularity without the commitment of ownership.",
+  "executive_summary": "EcoChic Rentals is poised to disrupt the fashion industry by offering a premium sustainable fashion rental service. Addressing the environmental crisis fueled by fast fashion and the consumer desire for variety, our platform provides access to a curated collection of high-quality, ethically produced apparel. We target eco-conscious, fashion-forward individuals seeking to reduce their environmental footprint without compromising on style. Through flexible subscription models and a seamless user experience, EcoChic Rentals promotes a circular economy, significantly reducing textile waste while offering an affordable and convenient alternative to traditional fashion consumption. Our vision is to make sustainable style accessible to all, driving both profit and positive planetary impact.",
+  "slides": [
+    {
+      "title": "EcoChic Rentals: Sustainable Style, Unboxed.",
+      "bullets": [
+        "Your Wardrobe, Reimagined.",
+        "Sustainable, Stylish, Simple."
+      ],
+      "speaker_notes": "Welcome and introduce EcoChic Rentals, our mission to transform fashion consumption through sustainability and accessibility. We're here to offer a fresh perspective on fashion."
+    },
+    {
+      "title": "The Problem: Fast Fashion's Environmental & Economic Toll.",
+      "bullets": [
+        "Massive textile waste: 85% of textiles end up in landfills annually.",
+        "High environmental footprint: Water, chemicals, carbon emissions from production.",
+        "Consumer dilemma: Desire for variety vs. ethical and environmental concerns.",
+        "Cost of ownership: Expensive, short-lived trends lead to wardrobe obsolescence."
+      ],
+      "speaker_notes": "Highlight the unsustainable nature of current fashion trends, emphasizing the urgency of the textile waste crisis and the growing consumer awareness of its impact."
+    },
+    {
+      "title": "Our Solution: EcoChic Rentals - Curated, Circular, Convenient.",
+      "bullets": [
+        "Access to premium sustainable and ethical brands, handpicked for quality and style.",
+        "Flexible subscription and per-item rental options to suit every need and budget.",
+        "Professional cleaning, maintenance, and repair for extended garment life.",
+        "Seamless delivery, returns, and wardrobe rotation for ultimate convenience.",
+        "Empowering conscious consumption without compromising on personal style."
+      ],
+      "speaker_notes": "Explain how EcoChic Rentals directly addresses the problems with a user-friendly, impactful solution that benefits both the consumer and the planet."
+    },
+    {
+      "title": "Market Opportunity: The Rise of the Conscious Consumer.",
+      "bullets": [
+        "Global fashion rental market projected to reach $4.4B by 2028 (CAGR of 10.6%).",
+        "Growing demand for sustainable products: 66% of consumers willing to pay more for sustainable brands.",
+        "Target demographic: Gen Z & Millennials (25-45), urban, digitally native, eco-aware.",
+        "Societal shift from ownership to access in various industries (e.g., music, cars, housing)."
+      ],
+      "speaker_notes": "Demonstrate the significant and growing market appetite for sustainable and rental services, highlighting our ideal customer profile and the broader trend towards access over ownership."
+    },
+    {
+      "title": "Business Model: Sustainable Revenue, Scalable Growth.",
+      "bullets": [
+        "Tiered Monthly Subscriptions: (e.g., 'Style Starter' - 2 items/month, 'Fashion Forward' - 4 items/month).",
+        "Per-Item Rentals: For special occasions or one-off needs, offering flexibility.",
+        "Brand Partnerships: Revenue share or exclusive collections with sustainable designers.",
+        "Data-Driven Inventory Management: Optimize stock, predict demand, and reduce waste."
+      ],
+      "speaker_notes": "Detail our clear and diversified revenue streams designed for profitability and scalability, ensuring a robust and adaptable business model."
+    },
+    {
+      "title": "Impact & Vision: Redefining Fashion for a Better Future.",
+      "bullets": [
+        "Environmental: Significantly reduce textile waste, water usage, and carbon footprint.",
+        "Social: Promote ethical production, educate consumers on sustainable choices, support local communities.",
+        "Economic: Create a circular economy model, extend product lifecycles, support sustainable brands.",
+        "Vision: To be the leading platform for accessible, stylish, and truly sustainable fashion globally."
+      ],
+      "speaker_notes": "Emphasize our commitment to positive impact beyond profit, showcasing how EcoChic Rentals contributes to a more sustainable and equitable fashion ecosystem. This is our 'why'."
+    },
+    {
+      "title": "The Ask: Join Our Sustainable Style Revolution.",
+      "bullets": [
+        "Seeking $1.5M Seed Funding.",
+        "Use of Funds: Inventory acquisition (50%), Technology development (25%), Marketing & Customer Acquisition (25%).",
+        "Projected ROI: Strong growth to profitability within 3 years, significant market share capture.",
+        "Call to Action: Partner with EcoChic Rentals to build a stylish, sustainable future for fashion."
+      ],
+      "speaker_notes": "Clearly state our funding needs and how the investment will fuel our growth, expand our inventory, enhance our platform, and acquire our target customers. This is an invitation to be part of a meaningful and profitable venture."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 500000,
+      "cost": 700000,
+      "profit": -200000
+    },
+    {
+      "year": 2,
+      "revenue": 2000000,
+      "cost": 1500000,
+      "profit": 500000
+    },
+    {
+      "year": 3,
+      "revenue": 5000000,
+      "cost": 3000000,
+      "profit": 2000000
+    }
+  ],
+  "assumptions": [
+    "Strong consumer adoption of fashion rental for everyday wear, not just special occasions, driven by sustainability and variety.",
+    "Availability of high-quality, durable sustainable fashion brands willing to partner for inventory supply.",
+    "Effective logistics and cleaning processes can maintain garment quality and extend lifespan to an average of 20+ rentals per item.",
+    "Customer acquisition cost remains manageable as the market grows and

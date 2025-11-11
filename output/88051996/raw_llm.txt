@@ -1,0 +1,106 @@
+```json
+{
+  "tagline": "KIROS: Powering the Planet's First Decentralized, Verifiable Carbon Economy.",
+  "elevator_pitch": "KIROS is building a global sustainability grid that integrates physical carbon capture with AI-driven impact finance and satellite-verified carbon validation, creating a transparent, decentralized carbon economy for governments and corporations to achieve their net-zero goals.",
+  "executive_summary": "The global climate crisis demands scalable, verifiable, and efficient solutions for carbon reduction. Existing carbon markets are often opaque, fragmented, and lack robust validation. KIROS addresses this by transforming into a global sustainability grid, a revolutionary platform that combines state-of-the-art carbon capture units with an AI-based impact finance engine and satellite-tracked carbon validation. This creates a decentralized carbon economy where every captured ton is transparently verified and monetized, allowing governments and corporations to seamlessly plug in, invest in real climate action, and confidently meet their sustainability commitments. KIROS offers a scalable, trustworthy, and economically viable pathway to a net-zero future.",
+  "slides": [
+    {
+      "title": "The Climate Imperative & Broken Carbon Markets",
+      "bullets": [
+        "Global warming accelerating, demanding urgent, verifiable action.",
+        "Current carbon markets suffer from opacity, fraud, and lack of standardization.",
+        "Corporations and governments struggle to meet net-zero targets effectively.",
+        "Massive investment gap in scalable carbon reduction technologies."
+      ],
+      "speaker_notes": "We face an undeniable climate crisis, yet the very mechanisms designed to combat it—carbon markets—are often inefficient and untrustworthy. This creates a significant barrier for organizations genuinely committed to sustainability, highlighting a critical need for a new, robust solution."
+    },
+    {
+      "title": "Introducing KIROS: The Global Sustainability Grid",
+      "bullets": [
+        "A revolutionary platform for a decentralized carbon economy.",
+        "Integrates physical carbon capture with digital validation and finance.",
+        "Designed for seamless integration by governments and corporations.",
+        "Our vision: A transparent, verifiable, and economically viable path to net-zero."
+      ],
+      "speaker_notes": "KIROS is not just another carbon credit provider; it's an entirely new infrastructure. We're building a global grid that connects real-world carbon capture with a digital, decentralized economy, making climate action accessible, transparent, and impactful for everyone."
+    },
+    {
+      "title": "How KIROS Works: Our Integrated Solution",
+      "bullets": [
+        "**Carbon Capture Units:** Strategically deployed, high-efficiency capture infrastructure.",
+        "**Satellite-Tracked Validation:** Real-time, immutable verification of captured carbon via geospatial intelligence.",
+        "**AI-Based Impact Finance:** Smart contracts and AI algorithms to fund projects and distribute value.",
+        "**Decentralized Carbon Economy:** Blockchain-powered ledger for transparent, traceable carbon credits."
+      ],
+      "speaker_notes": "Our solution is a powerful synergy. Physical capture units remove carbon, while satellites provide independent, continuous verification. AI and blockchain then transform this verified impact into a liquid, trustworthy asset, creating a truly decentralized carbon economy."
+    },
+    {
+      "title": "Technology & Innovation at Our Core",
+      "bullets": [
+        "**Advanced Carbon Capture:** Proprietary or partner technologies for maximum efficiency.",
+        "**AI & Machine Learning:** Optimizing capture operations, financial models, and impact assessment.",
+        "**Geospatial Intelligence:** Satellite imagery and data analytics for independent, continuous validation.",
+        "**Blockchain/DLT:** Ensuring immutable records, transparent transactions, and fractional ownership of carbon assets."
+      ],
+      "speaker_notes": "We leverage cutting-edge technologies across the board. From the efficiency of our capture units to the unbiased verification of satellites, and the transparency of AI-driven blockchain, every component is designed for maximum impact, trust, and scalability."
+    },
+    {
+      "title": "Market Opportunity & Impact",
+      "bullets": [
+        "**Trillion-Dollar Market:** Voluntary and compliance carbon markets projected for exponential growth.",
+        "**Target Customers:** Global corporations (ESG mandates), national/local governments (climate goals).",
+        "**Key Benefits:** Verifiable impact, reduced greenwashing risk, efficient capital deployment, new revenue streams.",
+        "**Global Impact:** Accelerating climate action, fostering sustainable development worldwide."
+      ],
+      "speaker_notes": "The market for verifiable carbon solutions is immense and growing. KIROS offers a unique value proposition: a trusted, scalable platform that helps corporations meet ESG goals, governments achieve climate targets, and investors fund real, measurable impact."
+    },
+    {
+      "title": "Business Model & Revenue Streams",
+      "bullets": [
+        "**Subscription Fees:** Tiered access for governments and corporations to the KIROS grid.",
+        "**Transaction Fees:** Percentage on carbon credit sales and impact investments facilitated.",
+        "**Carbon Credit Sales:** Direct sales of KIROS-generated, validated carbon credits.",
+        "**Data & Analytics Services:** Premium insights from our validation and impact data."
+      ],
+      "speaker_notes": "Our revenue model is diversified and scalable. We generate income from platform access, transaction facilitation, direct sales of our high-quality carbon credits, and valuable data insights, ensuring long-term financial sustainability."
+    },
+    {
+      "title": "The Road Ahead & Our Ask",
+      "bullets": [
+        "**Phase 1 (Current):** Pilot projects, technology refinement, strategic partnerships.",
+        "**Phase 2 (Next 18-24 months):** Global grid expansion, platform scaling, regulatory engagement.",
+        "**Team:** Visionary leaders in climate tech, AI, DLT, and finance.",
+        "**Our Ask:** Seeking $15 million in seed funding to accelerate global deployment and platform development."
+      ],
+      "speaker_notes": "We have a clear roadmap for global impact, starting with strategic pilots and scaling rapidly. Our experienced team is poised to execute this vision. We are seeking $15 million in seed funding to accelerate our technology development and expand our global footprint, bringing the KIROS vision to life."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 1500000,
+      "cost": 10000000,
+      "profit": -8500000
+    },
+    {
+      "year": 2,
+      "revenue": 15000000,
+      "cost": 25000000,
+      "profit": -10000000
+    },
+    {
+      "year": 3,
+      "revenue": 75000000,
+      "cost": 50000000,
+      "profit": 25000000
+    }
+  ],
+  "assumptions": [
+    "Strong and sustained demand from corporations and governments for verifiable, high-quality carbon credits and sustainability solutions will drive market adoption.",
+    "Our integrated carbon capture, AI, satellite validation, and DLT technologies can be developed, deployed, and scaled globally efficiently and cost-effectively.",
+    "Favorable regulatory environments and government policies will emerge to support decentralized carbon markets and incentivize carbon capture technologies.",
+    "Satellite validation and AI analytics provide sufficiently accurate and trusted data to establish KIROS as the gold standard for carbon verification.",
+    "Ability to form strategic partnerships with carbon capture technology providers, satellite data providers, and key industry players to accelerate deployment and market penetration."
+  ]
+}
+```

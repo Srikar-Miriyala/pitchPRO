@@ -1,0 +1,97 @@
+{
+  "tagline": "Powering Tier 2 EV Journeys: Charge, Maintain, Go.",
+  "elevator_pitch": "We're building dedicated offline EV charging and battery maintenance stations in Tier 2 cities, providing reliable power and expert care for two-wheelers and autos, solving range anxiety and service gaps.",
+  "executive_summary": "The rapid adoption of electric two-wheelers and autos in India's Tier 2 cities is outpacing the development of robust charging and maintenance infrastructure, leading to range anxiety and service challenges for EV owners. Our startup proposes 'Charge & Care Hubs,' a network of dedicated offline stations offering fast charging, comprehensive battery diagnostics, and expert maintenance services specifically tailored for these vehicles. By focusing on convenience, reliability, and specialized care in underserved markets, we aim to become the go-to solution for EV owners, ensuring seamless adoption and sustained growth of electric mobility in these crucial urban centers. Our multi-revenue model includes charging fees, maintenance packages, and potential battery swap/sales, positioning us for strong profitability and scalability.",
+  "slides": [
+    {
+      "title": "The Uncharged Reality of Tier 2 EVs",
+      "bullets": [
+        "Rapid EV adoption (2W & Autos) in Tier 2 cities.",
+        "Severe lack of reliable charging infrastructure.",
+        "No dedicated maintenance support for EV batteries/components.",
+        "Range anxiety and service downtime hinder EV growth."
+      ],
+      "speaker_notes": "Tier 2 cities are witnessing an EV revolution, especially in two-wheelers and auto-rickshaws. However, the essential backbone – charging and maintenance infrastructure – is critically missing. This gap creates significant challenges for owners, from range anxiety to costly, inconvenient repairs, ultimately slowing down the transition to electric mobility."
+    },
+    {
+      "title": "Our Solution: Charge & Care Hubs",
+      "bullets": [
+        "Dedicated offline stations for 2W & Auto EVs.",
+        "Fast charging points (AC & DC options).",
+        "Comprehensive battery diagnostics & maintenance.",
+        "Minor EV component repairs & expert advice.",
+        "Convenient, reliable, and localized service."
+      ],
+      "speaker_notes": "We're introducing 'Charge & Care Hubs' – purpose-built stations designed to be the one-stop solution for Tier 2 EV owners. Beyond just charging, we offer specialized battery health checks, maintenance, and minor repairs, ensuring vehicles run optimally and owners have peace of mind."
+    },
+    {
+      "title": "The Untapped Tier 2 Market Opportunity",
+      "bullets": [
+        "Millions of 2W & Auto EVs projected in Tier 2 cities.",
+        "Lower operational costs drive EV adoption for commercial use.",
+        "Government incentives further accelerate growth.",
+        "First-mover advantage in a fragmented, underserved market."
+      ],
+      "speaker_notes": "The market potential in Tier 2 cities is immense. These regions are ripe for EV adoption due to economic factors and government push. By establishing our presence early, we can capture a significant share of this rapidly expanding market, becoming the trusted brand for EV services."
+    },
+    {
+      "title": "Robust Business Model & Revenue Streams",
+      "bullets": [
+        "**Charging Fees:** Per-minute or per-unit (kWh) basis.",
+        "**Maintenance Packages:** Subscription-based battery health checks & service.",
+        "**Repair Services:** On-demand minor repairs and diagnostics.",
+        "**Battery Swaps/Sales (Future):** Partnership opportunities for swappable batteries.",
+        "**Ancillary Services:** EV accessories, spare parts."
+      ],
+      "speaker_notes": "Our revenue model is diversified and resilient. We'll generate income from charging, but crucially, also from high-margin maintenance and repair services. As we scale, battery swapping and sales present significant growth avenues, creating a comprehensive ecosystem."
+    },
+    {
+      "title": "Our Competitive Edge & Scalability",
+      "bullets": [
+        "**Offline Focus:** Direct, reliable service where online solutions fall short.",
+        "**Specialized Maintenance:** Expertise in EV battery and component care.",
+        "**Strategic Locations:** High-traffic areas in Tier 2 cities.",
+        "**Community Hub:** Building trust and loyalty with local EV owners.",
+        "**Standardized Operations:** Replicable model for rapid expansion across cities."
+      ],
+      "speaker_notes": "Our competitive advantage lies in our dedicated offline presence and specialized expertise. We're not just a charging point; we're a service hub. Our model is designed for scalability, with standardized processes allowing us to quickly replicate 'Charge & Care Hubs' across multiple Tier 2 cities."
+    },
+    {
+      "title": "Financial Snapshot & The Ask",
+      "bullets": [
+        "Strong revenue growth projected over 3 years.",
+        "Achieving profitability by Year 2.",
+        "Seeking $500,000 funding for initial station setup, equipment, and team expansion.",
+        "Targeting 10 stations in 3 cities within 24 months."
+      ],
+      "speaker_notes": "Our financial projections demonstrate a clear path to profitability and significant growth. We are seeking $500,000 in seed funding to establish our first few flagship stations, acquire essential equipment, and build out our core team. Our goal is to launch 10 stations across 3 Tier 2 cities within the next two years."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 100000,
+      "cost": 200000,
+      "profit": -100000
+    },
+    {
+      "year": 2,
+      "revenue": 400000,
+      "cost": 300000,
+      "profit": 100000
+    },
+    {
+      "year": 3,
+      "revenue": 1200000,
+      "cost": 700000,
+      "profit": 500000
+    }
+  ],
+  "assumptions": [
+    "Continued rapid growth of EV two-wheelers and autos in Tier 2 cities.",
+    "Availability of suitable commercial spaces at reasonable rents in strategic locations.",
+    "Reliable power supply from local grids to support charging infrastructure.",
+    "Ability to recruit and train skilled technicians for EV battery and component maintenance.",
+    "Government policies and incentives continue to support EV adoption and infrastructure development."
+  ]
+}

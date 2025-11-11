@@ -1,0 +1,105 @@
+{
+  "tagline": "UniBot AI: Your University, Smarter. Instant Answers for Every Student.",
+  "elevator_pitch": "UniBot AI is an intelligent chatbot designed to revolutionize student support at universities, providing instant, accurate answers for admissions and general university information, freeing up staff and enhancing the student experience.",
+  "executive_summary": "Universities worldwide struggle with the overwhelming volume of student inquiries, particularly during admissions cycles, leading to delayed responses, frustrated students, and overstretched administrative staff. UniBot AI offers a sophisticated, university-specific AI chatbot solution that integrates seamlessly with existing university systems to provide immediate, personalized, and accurate information on admissions, courses, campus life, and more. By automating routine queries, UniBot AI significantly improves operational efficiency, reduces staff workload, and elevates the student experience from prospective applicants to enrolled students, ensuring they always have access to the information they need, when they need it.",
+  "slides": [
+    {
+      "title": "The Challenge in Higher Education",
+      "bullets": [
+        "Overwhelmed Admissions & Administrative Staff",
+        "Delayed Student Responses & Frustration",
+        "Inconsistent Information Delivery Across Channels",
+        "High Operational Costs for Manual Support"
+      ],
+      "speaker_notes": "Universities face a growing challenge: a deluge of student inquiries, especially during peak admissions periods. This leads to overworked staff, long wait times for students, and often, inconsistent information, all contributing to a less-than-ideal experience and significant operational costs."
+    },
+    {
+      "title": "Introducing UniBot AI: Your Intelligent Campus Assistant",
+      "bullets": [
+        "AI-Powered Chatbot Tailored for Universities",
+        "Instant, Accurate Answers for Admissions & General Info",
+        "24/7 Availability, Multilingual Support",
+        "Personalized Student Experience from Prospect to Alumnus"
+      ],
+      "speaker_notes": "Our solution is UniBot AI, an advanced AI chatbot specifically designed for the higher education sector. It acts as an intelligent campus assistant, providing immediate, accurate, and personalized answers to student queries around the clock, in multiple languages."
+    },
+    {
+      "title": "How UniBot AI Works",
+      "bullets": [
+        "Seamless Integration with University Databases (CRM, SIS, Website)",
+        "Natural Language Processing (NLP) for Understanding Complex Queries",
+        "Contextual & Personalized Responses Based on Student Profile",
+        "Intelligent Escalation to Human Staff When Needed"
+      ],
+      "speaker_notes": "UniBot AI isn't just a FAQ bot. It integrates deeply with a university's existing systems – CRMs, student information systems, and website content – to pull real-time, accurate data. Our NLP engine understands complex student questions, providing contextual answers, and intelligently escalates to human staff only when a query requires human intervention."
+    },
+    {
+      "title": "Massive Market Opportunity",
+      "bullets": [
+        "Global Higher Education Market: Billions in Spending Annually",
+        "Untapped Potential for AI in Student Services & Administration",
+        "Growing Demand for Efficiency & Enhanced Student Experience",
+        "Scalable Solution Applicable to Institutions of All Sizes"
+      ],
+      "speaker_notes": "The global higher education market is enormous, with universities constantly seeking ways to improve efficiency and student satisfaction. There's a significant, largely untapped opportunity for AI to transform student services, and UniBot AI is perfectly positioned to capture this demand, offering a scalable solution for institutions worldwide."
+    },
+    {
+      "title": "Our Competitive Edge",
+      "bullets": [
+        "Deep University-Specific AI Training & Knowledge Base",
+        "Robust & Secure Integration Capabilities",
+        "Dedicated Higher Education Expertise Team",
+        "Superior User Experience & Actionable Analytics",
+        "Commitment to Data Privacy & Compliance"
+      ],
+      "speaker_notes": "What sets us apart? Our AI is specifically trained on higher education data, ensuring unparalleled accuracy. We prioritize seamless integration and robust data security. Our team brings deep expertise in both AI and university operations, allowing us to deliver a superior, analytics-driven user experience that truly meets university needs."
+    },
+    {
+      "title": "Business Model & Projections",
+      "bullets": [
+        "SaaS Subscription Model with Tiered Pricing",
+        "Annual Contracts Based on University Size & Usage",
+        "Initial Setup & Customization Fees",
+        "Future: Premium Features & Advanced Analytics Dashboards"
+      ],
+      "speaker_notes": "Our business model is a straightforward SaaS subscription, with tiered pricing based on the university's size and anticipated usage. We also charge for initial setup and customization. As we grow, we'll introduce premium features and advanced analytics dashboards, creating additional revenue streams."
+    },
+    {
+      "title": "The Future of Student Support",
+      "bullets": [
+        "Become the Standard for University AI Assistance",
+        "Expand to Onboarding, Academic Advising, Career Services",
+        "Global Market Penetration & Partnerships",
+        "Empower Universities, Delight Students"
+      ],
+      "speaker_notes": "Our vision is for UniBot AI to become the indispensable standard for student support in higher education. We plan to expand our capabilities beyond admissions to cover onboarding, academic advising, and career services, achieving global market penetration and ultimately empowering universities while delighting students."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 200000,
+      "cost": 500000,
+      "profit": -300000
+    },
+    {
+      "year": 2,
+      "revenue": 1500000,
+      "cost": 900000,
+      "profit": 600000
+    },
+    {
+      "year": 3,
+      "revenue": 5000000,
+      "cost": 2000000,
+      "profit": 3000000
+    }
+  ],
+  "assumptions": [
+    "Universities are willing to invest in AI solutions to improve student services and operational efficiency.",
+    "Our AI can be effectively trained and integrated with diverse university IT infrastructures and data sources.",
+    "We can acquire initial university clients to build strong case studies and demonstrate clear ROI.",
+    "The market for AI-driven student support in higher education will experience significant growth over the next 3-5 years.",
+    "We can attract and retain top talent in AI development, sales, and higher education consulting."
+  ]
+}

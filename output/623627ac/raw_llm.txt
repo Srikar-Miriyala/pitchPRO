@@ -1,0 +1,101 @@
+```json
+{
+  "tagline": "Style on Demand, Sustainability in Hand.",
+  "elevator_pitch": "EcoChic Rentals offers a curated sustainable fashion rental service, empowering consumers to access high-quality, eco-friendly clothing for any occasion without the environmental impact or financial burden of ownership.",
+  "executive_summary": "The fashion industry is a major contributor to global waste and pollution, while consumers increasingly seek sustainable options and wardrobe variety. EcoChic Rentals addresses this by providing a seamless online platform for renting garments from leading sustainable brands. Our service allows individuals to enjoy diverse, ethical fashion choices for a fraction of the cost and environmental footprint of buying new. We target conscious consumers, event-goers, and fashion enthusiasts, tapping into the rapidly growing fashion rental market and promoting a circular economy within the apparel sector. With a strong focus on convenience, style, and impact, EcoChic Rentals is poised to make sustainable fashion accessible and mainstream.",
+  "slides": [
+    {
+      "title": "Slide 1: Title - EcoChic Rentals",
+      "bullets": [
+        "Sustainable Style, Smarter Choices",
+        "Your Wardrobe, Reimagined."
+      ],
+      "speaker_notes": "Good morning! We are EcoChic Rentals, and we're here to revolutionize how people experience fashion – making it both stylish and sustainable."
+    },
+    {
+      "title": "Slide 2: The Problem with Fast Fashion",
+      "bullets": [
+        "Environmental Crisis: Billions of garments wasted annually, massive carbon footprint.",
+        "Ethical Dilemma: High cost of truly sustainable fashion, limiting access.",
+        "Consumer Frustration: Desire for variety, but limited budget and closet space."
+      ],
+      "speaker_notes": "The current fashion model is broken. Fast fashion fuels a cycle of overconsumption and waste, while sustainable alternatives often come with a premium price tag. Consumers want to do better, but face barriers."
+    },
+    {
+      "title": "Slide 3: Our Solution: EcoChic Rentals",
+      "bullets": [
+        "Curated Collection: Access to high-quality, certified sustainable fashion brands.",
+        "Flexible Rental: Rent for specific events, daily, weekly, or through subscription tiers.",
+        "Seamless Experience: Easy online browsing, delivery, professional cleaning, and returns.",
+        "Circular Economy: Extending garment lifespan, reducing waste, promoting reuse."
+      ],
+      "speaker_notes": "EcoChic Rentals offers a powerful solution. We provide a platform where sustainable fashion is not just accessible, but also convenient and affordable, fostering a true circular economy for clothing."
+    },
+    {
+      "title": "Slide 4: Market Opportunity & Target Audience",
+      "bullets": [
+        "Growing Conscious Consumer Segment: Gen Z & Millennials prioritizing sustainability.",
+        "Fashion Rental Market: Projected to reach $4.4 billion by 2028 (CAGR of 10.6%).",
+        "Target Audience: Event-goers, professionals, fashion enthusiasts, and eco-conscious individuals."
+      ],
+      "speaker_notes": "The market is ripe for disruption. There's a clear convergence of demand for sustainable products and the convenience of rental models. We're targeting a broad, engaged audience ready for this shift."
+    },
+    {
+      "title": "Slide 5: Business Model & Revenue Streams",
+      "bullets": [
+        "Subscription Tiers: Monthly plans for recurring rentals (e.g., 1-3 items/month).",
+        "Per-Item Rentals: One-off rentals for special occasions.",
+        "Brand Partnerships: Wholesale purchasing and consignment agreements with sustainable labels.",
+        "Potential for Resale: Monetizing retired inventory through a secondary marketplace."
+      ],
+      "speaker_notes": "Our diversified revenue model ensures scalability and profitability. We offer flexibility to our customers while building strong relationships with sustainable brands, creating a win-win ecosystem."
+    },
+    {
+      "title": "Slide 6: Sustainability Impact & Vision",
+      "bullets": [
+        "Significant Waste Reduction: Diverting textiles from landfills.",
+        "Lower Carbon Footprint: Extending garment life, reducing new production.",
+        "Empowering Ethical Choices: Making sustainable fashion a default, not a luxury.",
+        "Vision: To be the leading platform for accessible, sustainable fashion, inspiring a global shift towards conscious consumption."
+      ],
+      "speaker_notes": "Our core mission is impact. We're not just a rental service; we're a movement towards a more sustainable and ethical fashion future. We envision a world where style and sustainability go hand-in-hand."
+    },
+    {
+      "title": "Slide 7: Financial Projections & Call to Action",
+      "bullets": [
+        "Strong growth trajectory towards profitability.",
+        "Seeking [X] investment to scale inventory, enhance platform, and expand marketing.",
+        "Join EcoChic Rentals: Invest in the future of fashion."
+      ],
+      "speaker_notes": "Our financial projections demonstrate a clear path to success. We invite you to join us in building EcoChic Rentals into the premier destination for sustainable fashion rental. Thank you."
+    }
+  ],
+  "financials": [
+    {
+      "year": 1,
+      "revenue": 250000,
+      "cost": 400000,
+      "profit": -150000
+    },
+    {
+      "year": 2,
+      "revenue": 1200000,
+      "cost": 900000,
+      "profit": 300000
+    },
+    {
+      "year": 3,
+      "revenue": 4000000,
+      "cost": 2800000,
+      "profit": 1200000
+    }
+  ],
+  "assumptions": [
+    "Growing consumer demand for sustainable fashion and rental models will continue at projected rates.",
+    "We can secure partnerships with a diverse range of desirable sustainable fashion brands at favorable terms.",
+    "Our logistics for cleaning, maintenance, delivery, and returns will be efficient and cost-effective.",
+    "Customer acquisition costs will remain manageable through targeted digital marketing and word-of-mouth.",
+    "The average rental frequency and duration per active user will meet our projections."
+  ]
+}
+```

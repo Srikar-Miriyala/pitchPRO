@@ -1,0 +1,8 @@
+{
+  "job_id": "your-job-id",
+  "status": "done",
+  "finished_at": "2025-11-06T11:05:40.086339",
+  "duration_seconds": 21.269085,
+  "response_length": 6885,
+  "parse_success": false
+}

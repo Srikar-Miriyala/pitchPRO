@@ -1,0 +1,79 @@
+```json
+{
+  "tagline": "CrediSwift: AI-driven capital for India's MSMEs.",
+  "elevator_pitch": "CrediSwift is an AI-powered marketplace connecting Indian MSMEs with lenders, using alternative data like GST filings and transaction history for instant credit underwriting. We provide fast, flexible working capital to a traditionally underserved market.",
+  "executive_summary": "CrediSwift addresses the significant credit gap for India's MSMEs by leveraging an AI-powered risk engine to analyze non-traditional data. Our platform offers lenders a pre-qualified pipeline of borrowers, reducing risk and acquisition costs, while providing MSMEs with seamless access to micro-loans. We project facilitating ₹500 Cr in loans within three years by targeting GST-registered businesses.",
+  "slides": [
+    {
+      "title": "CrediSwift: Unlocking MSME Growth",
+      "bullets": [
+        "AI-Powered Micro-Loan Marketplace",
+        "Addressing the ₹20 Trillion MSME Credit Gap",
+        "Founders with Fintech & AI Expertise",
+        "Ask: ₹5 Cr for 15% Equity"
+      ],
+      "speaker_notes": "We are CrediSwift, a platform built to provide essential working capital to Indian MSMEs, and we are seeking ₹5 Cr to scale our operations."
+    },
+    {
+      "title": "The Problem: A Massive Credit Chasm",
+      "bullets": [
+        "60M+ MSMEs are the backbone of India's economy.",
+        "They face a systemic credit gap due to slow, paper-heavy processes.",
+        "High rejection rates from traditional banks lacking alternative data models.",
+        "This lack of capital directly stifles business growth and potential."
+      ],
+      "speaker_notes": "The current lending infrastructure is not equipped to serve the dynamic needs of the MSME sector, creating a significant and costly bottleneck."
+    },
+    {
+      "title": "Our Solution: Data-Driven Lending",
+      "bullets": [
+        "AI-driven risk assessment using GST, banking, and transaction data.",
+        "Instant loan matchmaking with a network of NBFCs and banks.",
+        "A fully digital, paperless onboarding process completed in minutes.",
+        "Transparent terms and competitive rates for borrowers."
+      ],
+      "speaker_notes": "Our technology provides a fast, data-driven, and accessible solution that benefits both borrowers and our lending partners."
+    },
+    {
+      "title": "Market Opportunity",
+      "bullets": [
+        "Total Addressable Market (TAM): 60M+ Indian MSMEs.",
+        "Serviceable Addressable Market (SAM): 15M GST-registered MSMEs.",
+        "Initial Target Market: 1M MSMEs in manufacturing and retail sectors in Tier-1 & 2 cities."
+      ],
+      "speaker_notes": "The market is enormous and deeply underserved, presenting a clear opportunity for a disruptive platform to capture significant value."
+    },
+    {
+      "title": "Business Model",
+      "bullets": [
+        "Primary: 1.5% - 2.5% loan origination fee from lenders.",
+        "Secondary: 0.5% processing fee from borrowers.",
+        "Future: Data analytics and risk-as-a-service for financial institutions."
+      ],
+      "speaker_notes": "Our model is transactional and highly scalable, aligning our revenue directly with the volume of successful loans we facilitate."
+    },
+    {
+      "title": "Go-to-Market Strategy",
+      "bullets": [
+        "Onboard NBFC and small finance bank partners for loan capital.",
+        "Targeted digital marketing campaigns for MSME acquisition.",
+        "Integrations with accounting platforms and B2B marketplaces.",
+        "Channel partnerships with Chartered Accountant networks."
+      ],
+      "speaker_notes": "We will employ a multi-channel strategy to efficiently build both the supply and demand sides of our marketplace."
+    },
+    {
+      "title": "Financial Projections (in ₹ Cr)",
+      "bullets": [
+        "Year 1 (2026) Revenue: 0.5",
+        "Year 2 (2027) Revenue: 2.0",
+        "Year 3 (2028) Revenue: 10.0",
+        "Projected to achieve profitability in Year 2."
+      ],
+      "speaker_notes": "Our projections are based on conservative assumptions regarding market penetration, loan volume, and our blended take rate."
+    },
+    {
+      "title": "The Team & The Ask",
+      "bullets": [
+        "Experienced founders with backgrounds in fintech, data science, and banking.",
+        "Seeking ₹5 Cr for a

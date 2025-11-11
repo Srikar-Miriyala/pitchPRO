@@ -1,0 +1,26 @@
+```json
+{
+  "tagline": "Empowering financial inclusion through intelligent micro-lending.",
+  "elevator_pitch": "We are building an AI-powered marketplace that connects underserved micro-entrepreneurs with lenders, leveraging predictive analytics to assess creditworthiness and minimize risk. Our platform democratizes access to capital, fostering economic growth in developing communities.",
+  "executive_summary": "Our AI Micro-Loans Marketplace addresses the critical gap in financial access for millions of micro-entrepreneurs globally who lack traditional credit histories. By utilizing advanced AI and machine learning algorithms, we analyze alternative data points to provide accurate credit scoring, enabling lenders to confidently offer small, short-term loans. This creates a highly efficient, transparent, and scalable platform that significantly reduces default rates for lenders while unlocking economic potential for borrowers. We aim to become the leading global platform for ethical and intelligent micro-finance, driving sustainable development and financial inclusion.",
+  "slides": [
+    {
+      "title": "The Opportunity: Unlocking Global Micro-Entrepreneurship",
+      "bullets": [
+        "Over 1.7 billion adults globally are unbanked, many are micro-entrepreneurs.",
+        "Traditional financial institutions often overlook this segment due to perceived high risk and low profitability.",
+        "Massive untapped market for small, impactful loans to drive local economies."
+      ],
+      "speaker_notes": "Highlight the immense scale of the problem and the inherent potential for economic upliftment by addressing this underserved market."
+    },
+    {
+      "title": "The Problem: Access to Capital is a Barrier to Growth",
+      "bullets": [
+        "Lack of traditional credit history prevents access to formal loans.",
+        "High interest rates and predatory lending in informal markets exploit vulnerable borrowers.",
+        "Inefficient manual processes for loan assessment and disbursement hinder scalability for lenders."
+      ],
+      "speaker_notes": "Emphasize the critical pain points for both micro-entrepreneurs seeking capital and potential lenders struggling with risk assessment."
+    },
+    {
+      "title": "Our Solution: AI-Powered Micro-Lending Marketplace",

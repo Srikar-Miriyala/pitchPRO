@@ -1,0 +1,94 @@
+{
+  "tagline": "AI-powered college guidance, speaking your language.",
+  "elevator_pitch": "We're developing EduVani AI, an intelligent chatbot that provides personalized, accurate guidance on college admissions, exams, and scholarships, specifically designed to communicate with students in their native regional languages.",
+  "executive_summary": "Navigating the complexities of college admissions, competitive exams, and scholarship applications is a daunting task for millions of students, especially those in regions where information is scarce, often in English, or not easily accessible. EduVani AI addresses this critical gap by offering an AI-powered chatbot that delivers instant, reliable, and personalized support in various regional languages. Our solution democratizes access to vital educational information, empowering students to make informed decisions and pursue higher education with confidence. With a vast, underserved market and a scalable freemium business model, EduVani AI is poised to become the go-to resource for localized educational guidance, fostering academic success and reducing educational disparities.",
+  "slides": [
+    {
+      "title": "The Language Barrier to Higher Education",
+      "bullets": [
+        "Complex college admissions, exams, and scholarship processes.",
+        "Information overload, often in English, creating accessibility gaps.",
+        "Lack of personalized, accessible guidance in regional languages.",
+        "Millions of students left behind or misinformed due to language and resource limitations."
+      ],
+      "speaker_notes": "Highlight the emotional and practical challenges students face when critical information isn't available in their native tongue. Emphasize the scale of this problem across diverse linguistic regions."
+    },
+    {
+      "title": "Our Solution: EduVani AI – Your Localized College Navigator",
+      "bullets": [
+        "AI-powered chatbot for instant, accurate answers to educational queries.",
+        "Supports multiple regional languages (e.g., Hindi, Marathi, Tamil, Bengali, etc.).",
+        "Comprehensive coverage: admissions criteria, exam patterns, scholarship opportunities.",
+        "24/7 accessibility, offering personalized guidance and reducing stress."
+      ],
+      "speaker_notes": "Introduce EduVani AI as the direct answer to the problem. Stress the unique value proposition of regional language support combined with AI-driven personalization and 24/7 availability."
+    },
+    {
+      "title": "A Vast, Underserved Market",
+      "bullets": [
+        "Millions of high school and college-bound students globally, particularly in emerging economies.",
+        "Significant growth in regional language internet users, outpacing English speakers.",
+        "Existing solutions are generic, expensive, or exclusively English-centric.",
+        "High demand for localized, affordable, and reliable educational support."
+      ],
+      "speaker_notes": "Provide context on the market size. For example, 'In India alone, over 250 million students are in K-12 and higher education, with a significant portion preferring regional languages for information consumption.'"
+    },
+    {
+      "title": "How It Works & Technology",
+      "bullets": [
+        "Advanced Natural Language Processing (NLP) for deep regional language understanding.",
+        "Large Language Models (LLMs) fine-tuned on extensive educational datasets.",
+        "Proprietary knowledge base of admissions criteria, exam patterns, and scholarship details.",
+        "User-friendly interface accessible via web, mobile app, and popular messaging platforms."
+      ],
+      "speaker_notes": "Briefly explain the underlying technology without getting overly technical. Focus on how it enables accurate, multilingual, and personalized interactions."
+    },
+    {
+      "title": "Business Model & Monetization",
+      "bullets": [
+        "Freemium model: Basic queries and information are free to drive adoption.",
+        "Subscription tiers for premium features: advanced guidance, personalized roadmaps, mock tests, expert sessions.",
+        "Partnerships with educational institutions for lead generation and data insights.",
+        "Non-intrusive, context-aware advertising for relevant educational products and services."
+      ],
+      "speaker_notes": "Explain how the freemium model will attract a large user base and how premium features will drive revenue. Highlight diversified revenue streams for sustainability."
+    },
+    {
+      "title": "Financial Projections & The Ask",
+      "bullets": [
+        "Year 1 Revenue: $50K, Cost: $300K, Profit: -$250K (Focus on MVP & initial user acquisition).",
+        "Year 2 Revenue: $500K, Cost: $400K, Profit: $100K (Scaling users, premium conversions).",
+        "Year 3 Revenue: $2M, Cost: $800K, Profit: $1.2M (Significant market penetration, profitability).",
+        "Seeking $750K seed funding for product development, team expansion, and initial market entry."
+      ],
+      "speaker_notes": "Summarize the financial outlook, emphasizing the path to profitability. Clearly state the funding request and its intended use to achieve key milestones."
+    }
+  ],
+  "financials": [
+    {
+      "year": "Year 1 (2025)",
+      "revenue": 50000,
+      "cost": 300000,
+      "profit": -250000
+    },
+    {
+      "year": "Year 2 (2026)",
+      "revenue": 500000,
+      "cost": 400000,
+      "profit": 100000
+    },
+    {
+      "year": "Year 3 (2027)",
+      "revenue": 2000000,
+      "cost": 800000,
+      "profit": 1200000
+    }
+  ],
+  "assumptions": [
+    "Strong and sustained demand for localized, regional language educational content and guidance.",
+    "Our AI technology can accurately and effectively process, understand, and respond in multiple regional languages at scale.",
+    "We can achieve a cost-effective user acquisition strategy, converting a significant portion of free users to premium subscribers.",
+    "Continued advancements in AI/NLP technology will support the scalability and accuracy required for our service.",
+    "We can establish and maintain a comprehensive, up-to-date knowledge base of educational information across various regions and languages."
+  ]
+}
